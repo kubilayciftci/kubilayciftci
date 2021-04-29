@@ -5,4 +5,4 @@
 - 💬 Ask me about Java, Kotlin, Android or whatever you want 😀
 - 📫 How to reach me: kubilayciftci@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubilayciftci&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubilayciftci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
