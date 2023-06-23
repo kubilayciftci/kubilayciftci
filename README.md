@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kubilay</h1>
+<h1 align="center">Hi 👋, I'm Kubilay Çiftci</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Go, AWS, DynamoDB and Serverless Architecture**
