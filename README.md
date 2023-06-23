@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kubilay</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubilayciftci" alt="kubilayciftci" /></a> </p>
-
-- 🔭 I’m currently working on **Delivery Hero**
+- 🔭 I’m currently working on **Go, AWS, DynamoDB and Serverless Architecture**
 
 - 🌱 I’m currently learning **Microservices, AWS, Spring Boot**
 
