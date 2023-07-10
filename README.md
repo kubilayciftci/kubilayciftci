@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Go, AWS, DynamoDB and Serverless**
 
-- 🌱 I’m currently learning **Microservices, AWS, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, AWS, Microservices**
 
 - 💬 Ask me about **back-end development**
 
