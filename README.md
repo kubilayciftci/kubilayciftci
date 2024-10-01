@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kubilay Çiftci</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **Go, AWS, DynamoDB and Serverless**
+- 🔭 I’m currently working on **Java, Spring Boot, AWS, MongoDB**
 
-- 🌱 I’m currently learning **Spring Boot, AWS, Microservices**
+- 🌱 I’m currently learning **AWS, Cloud Ecosystem**
 
 - 💬 Ask me about **back-end development**
 
